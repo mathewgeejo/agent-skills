@@ -5,6 +5,8 @@ description: |
   BotClient, OpenAI, SSE streaming, AI chat, molykit,
   PlatformSend, spawn(), ThreadToken, cross-platform async,
   Chat widget, Messages, PromptInput, Avatar, LLM
+risk: unknown
+source: community
 ---
 
 # MolyKit Skill
@@ -13,7 +15,7 @@ Best practices for building AI chat interfaces with Makepad using MolyKit - a to
 
 **Source codebase**: `/Users/zhangalex/Work/Projects/FW/robius/moly/moly-kit`
 
-## Triggers
+## When to Use
 
 Use this skill when:
 - Building AI chat interfaces with Makepad
